@@ -1,0 +1,286 @@
+pip install # This file may be used to create an environment using:
+
+pip install # $ conda create --name <env> --file <this file>
+
+pip install # platform: linux-64
+
+pip install ipython==8.0.1
+
+pip install python==3.9.13
+
+pip install python-dateutil==2.8.2
+
+pip install python_abi==3.9==2_cp39
+
+pip install _libgcc_mutex==0.1
+
+pip install asttokens==2.0.5
+
+pip install backcall==0.2.0
+
+pip install beautifulsoup4==4.10.0
+
+pip install black==21.12b0
+
+pip install bzip2==1.0.8
+
+pip install ca-certificates==2022.6.15
+
+pip install cairo==1.16.0
+
+pip install certifi==2021.10.8
+
+pip install charset-normalizer==2.0.1
+
+pip install click==8.0.3
+
+pip install cloudpickle==2.0.0
+
+pip install cudatoolkit==11.3.1
+
+pip install cycler==0.11.0
+
+pip install dask==2021.11.2
+
+pip install debugpy==1.5.1
+
+pip install decorator==5.1.1
+
+pip install dominate==2.6.0
+
+pip install efficientnet-pytorch==0.6.3
+
+pip install entrypoints==0.3
+
+pip install enum-compat==0.0.3
+
+pip install executing==0.8.2
+
+pip install expat==2.4.8
+
+pip install font-ttf-dejavu-sans-mono==2.37
+
+pip install font-ttf-inconsolata==3.000
+
+pip install font-ttf-source-code-pro==2.038
+
+pip install font-ttf-ubuntu==0.83
+
+pip install fontconfig==2.14.0
+
+pip install fonts-conda-ecosystem==1==0
+
+pip install fonts-conda-forge==1==0
+
+pip install fonttools==4.28.5
+
+pip install freetype==2.12.1
+
+pip install fsspec==2022.2.0
+
+pip install future==0.18.2
+
+pip install gdk-pixbuf==2.42.8
+
+pip install gettext==0.19.8.1
+
+pip install glib==2.72.1
+
+pip install glib-tools==2.72.1
+
+pip install h5py==3.6.0
+
+pip install icu==70.1
+
+pip install idna==3.3
+
+pip install ipykernel==6.7.0
+
+pip install jedi==0.18.1
+
+pip install joblib==1.1.0
+
+pip install jpeg==9e
+
+pip install jsonpatch==1.32
+
+pip install kiwisolver==1.3.2
+
+pip install lerc==4.0.0
+
+pip install libdeflate==1.13
+
+pip install libffi==3.4.2
+
+pip install libglib==2.72.1
+
+pip install libiconv==1.16
+
+pip install libpng==1.6.37
+
+pip install libsqlite==3.39.2
+
+pip install libtiff==4.4.0
+
+pip install libwebp-base==1.2.4
+
+pip install libxcb==1.13
+
+pip install libxml2==2.9.14
+
+pip install libzlib==1.2.12
+
+pip install llvmlite==0.36.0
+
+pip install locket==0.2.1
+
+pip install lxml==4.7.1
+
+pip install matplotlib==3.5.1
+
+pip install matplotlib-inline==0.1.3
+
+pip install munch==2.5.0
+
+pip install nest-asyncio==1.5.4
+
+pip install networkx==2.6.3
+
+pip install numba==0.53.1
+
+pip install numpy==1.22.0
+
+pip install openjpeg==2.5.0
+
+pip install openssl==3.0.5
+
+pip install packaging==21.3
+
+pip install pandas==1.4.0
+
+pip install parso==0.8.3
+
+pip install partd==1.2.0
+
+pip install pathspec==0.9.0
+
+pip install pcre==8.45
+
+pip install pexpect==4.8.0
+
+pip install pickleshare==0.7.5
+
+pip install pillow==9.2.0
+
+pip install pip==22.2.2
+
+pip install pixman==0.40.0
+
+pip install platformdirs==2.4.1
+
+pip install pretrainedmodels==0.7.4
+
+pip install prompt-toolkit==3.0.24
+
+pip install protobuf==3.19.4
+
+pip install psutil==5.9.0
+
+pip install pthread-stubs==0.4
+
+pip install ptyprocess==0.7.0
+
+pip install pyaml==21.10.1
+
+pip install pygments==2.11.2
+
+pip install pyparsing==3.0.7
+
+pip install pytz==2021.3
+
+pip install pywavelets==1.2.0
+
+pip install pyyaml==6.0
+
+pip install pyzmq==22.3.0
+
+pip install requests==2.26.0
+
+pip install scikit-image==0.18.3
+
+pip install scikit-learn==1.0.2
+
+pip install scikit-optimize==0.9.0
+
+pip install scipy==1.7.3
+
+pip install segmentation-models-pytorch==0.2.1
+
+pip install setuptools==65.2.0
+
+pip install six==1.16.0
+
+pip install soupsieve==2.3.1
+
+pip install sqlite==3.39.2
+
+pip install threadpoolctl==3.1.0
+
+pip install tifffile==2021.11.2
+
+pip install timm==0.4.12
+
+pip install tk==8.6.12
+
+pip install toolz==0.11.2
+
+pip install torchfile==0.1.0
+
+pip install tornado==6.1
+
+pip install tqdm==4.62.3
+
+pip install traitlets==5.1.1
+
+pip install tzdata==2022c
+
+pip install urllib3==1.26.8
+
+pip install visdom==0.1.8.9
+
+pip install wcwidth==0.2.5
+
+pip install wheel==0.37.1
+
+pip install xorg-kbproto==1.0.7
+
+pip install xorg-libice==1.0.10
+
+pip install xorg-libsm==1.2.3
+
+pip install xorg-libx11==1.7.2
+
+pip install xorg-libxau==1.0.9
+
+pip install xorg-libxdmcp==1.1.3
+
+pip install xorg-libxext==1.3.4
+
+pip install xorg-libxrender==0.9.10
+
+pip install xorg-renderproto==0.11.1
+
+pip install xorg-xextproto==7.3.0
+
+pip install xorg-xproto==7.0.31
+
+pip install xz==5.2.6
+
+pip install zlib==1.2.12
+
+pip install zstd==1.5.2
+
+pip install tomli
+
+pip install imageio
+
